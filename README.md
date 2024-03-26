@@ -2,4 +2,4 @@
 ----------
 ### [Live demo](https://kobweb-landing-page.vercel.app/)
 
-![screenshot](https://)
+![screenshot](https://github.com/chiefEbube/kobweb-landing-page/blob/main/scrnsht.png?raw=true)
